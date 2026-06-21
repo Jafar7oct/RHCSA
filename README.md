@@ -63,6 +63,9 @@ This repository also contains practice questions and lab exercises to help reinf
 >
 > The questions and exercises are created solely for **study, review, and hands-on practice purposes** to help learners prepare for the certification exam.
 
+<p align="center">
+  <img src="./images/Questions.png" alt="RHCSA Certificate" width="800">
+</p>
 ---
 
 # 📝 Complete Notes (Notion)
