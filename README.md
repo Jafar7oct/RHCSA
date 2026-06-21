@@ -66,6 +66,7 @@ This repository also contains practice questions and lab exercises to help reinf
 <p align="center">
   <img src="./images/Questions.png" alt="RHCSA Certificate" width="800">
 </p>
+
 ---
 
 # 📝 Complete Notes (Notion)
